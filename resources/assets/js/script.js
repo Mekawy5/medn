@@ -1,0 +1,1 @@
+$('#trumbowyg-demo').trumbowyg();
